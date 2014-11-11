@@ -1,18 +1,16 @@
-Student-Directory README
-========================
+![MAlogo!](http://www.makersacademy.com/images/logo.png)
 
-> Be me
-> Inside
-> Coding
-> Learning how to make a directory
-> Diregarding fools, acquiring currency
-> Blah
-> Blah blah blah
-> Blah blah
+![Students!](http://img1.wikia.nocookie.net/__cb20120418172034/happywheels/images/7/75/Heads.png)
 
-How To Use This Thing
-=====================
+Student Directory
+--
 
-'''shell
-ruby directory.rb
-'''
+Instructions:
+--
+
+
+Lessons Learned:
+--
+
+Problems With Code:
+--
